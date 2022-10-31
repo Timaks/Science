@@ -1,0 +1,119 @@
+@media (max-width: 991px)
+
+	.description{
+        font-size: 16px;
+    }
+	.purpose{
+  	  margin: 48px 60px 48px 0px;
+    }
+    .contact{
+        margin: 42px 30px 42px 0px;
+    }
+    .project_description{
+        font-size: 16px;
+    }
+    .medical{
+        margin: 40px 60px 40px 60px;
+    }
+    .arrow_slider_prev, .arrow_slider_next{
+        top: 25%;
+    }
+    .arrow_slider_prev, .arrow_slider_next {
+        width: 25px;
+        height: 40px;
+    }
+    .arrow_slider_prev{
+        left: -20px;
+    }
+    	.arrow_slider_prev_p{
+            margin-top: 40%;
+        }
+    .arrow_slider_next{
+        right: -20px;
+    }
+    	.arrow_slider_next_p{
+            margin-top: 40%;
+            margin-left: 25%;
+        }
+    .button_text{
+        font-size: 16px;
+        line-height: 22px;
+        padding: 13px 56px 13px 55px;
+    }
+
+@media (max-width: 768px) 
+    .purpose{
+   		margin: 48px 30px 48px 0px;
+    }
+    .development{
+        margin: 20px 0px 20px 0px;
+    }   
+    .contact{
+        margin: 42px 30px 25px 0px;
+    }    
+    .project_block{
+        margin-bottom: 16px;
+    }
+    .button_text{
+        padding: 22px 56px 22px 55px;
+    }
+ @media (max-width: 478px) 
+    .medical{
+        margin: 24px 20px 24px 20px;
+    }
+@media (max-width: 378px) 
+    .block_list {
+        margin: 24px 0;
+    }
+    .row_block{
+        margin: 3px;
+    }
+    .innovation_block_description{
+        height: 72px;
+        margin-bottom: 12px;
+    }
+    .description{
+        left: 40%;
+	}
+	.text_show{
+        height: 32px;
+        padding: 4px 8px 0px 0px;
+    }
+    	.text{
+            font-size: 14px;
+        }
+    .center_block {
+        display: grid;
+        margin: 24px 15px 24px 15px;
+    }
+    	.purpose{
+            margin: 0px 0px 12px 0px;
+            text-align: left;
+        }
+
+    .right_education_block{
+            font-size: 12px;
+            line-height: 16px;
+        }
+    	.development{
+            margin: 0px;
+        }
+        .contact{
+            margin: 0px;
+            text-align: left;
+        }
+        .contact_text{
+            margin: 12px 0px 0px 0px;
+            font-size: 14px;
+            width: inherit;
+        }
+        	.mail_block{
+                margin-top: 16px;
+            }
+    .project_block_description{
+        height: 72px;
+    }
+    .button_text{
+        font-size: 14px;
+        padding: 12px 58px 12px 58px;
+    }
